@@ -1,3 +1,7 @@
 This is edit 1
 
+
 This is a new edit in the new_branch
+
+This is something that is a mistake in the main branch
+
